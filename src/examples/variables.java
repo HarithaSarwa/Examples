@@ -6,6 +6,7 @@ public class variables {
 	void method() {
 		
 		int n=90; //local variable
+		System.out.println(n);
 	}
 	
 
